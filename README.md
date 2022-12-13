@@ -58,7 +58,43 @@
 >2025
 >```
 
+### Project
+
+#### ACM Winter Proj 2022
+
+>Title
+>```
+>Event Hosting Website for College Students
+>```
+>Description
+>```
+>- Created a cross-platform website for UCSD students to host and view events in UCSD with a team of 6. 
+>- Designed 7 different API routes to read and write the database to record event and user information.
+>- Encrypted user password using the Bcrypt Algorithm to safeguard users’ data.
+>```
+>Tech Used
+>```
+>MongoDB, Mongoose.js, Express.js, React, Node.js, bcrypt.js
+>```
+
+#### ACM Fall Proj 2022
+
+>Title
+>```
+>AI Machine Learning for Hand Gesture Recognition
+>```
+>Description
+>```
+>- Trained an AI model that recognizes human hand gestures in American Sign Language and matches them to English alphabetical characters with 3 other teammates.
+>- Decided the parameter tuning and optimization to reach an accuracy of over 91%.
+>```
+>Tech Used
+>```
+>Python, PyTorch, CNN
+>```
+
 ### Websites
+
 >LinkedIn
 >```
 >https://www.linkedin.com/in/caogang-shen/
