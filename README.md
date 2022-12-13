@@ -76,6 +76,14 @@
 >```
 >MongoDB, Mongoose.js, Express.js, React, Node.js, bcrypt.js
 >```
+>Duration
+>```
+>2022/01 - 2022/03
+>```
+>Project URL
+>```
+>https://github.com/acmucsd-projects/team-piplup-wi22
+>```
 
 #### ACM Fall Proj 2022
 
@@ -91,6 +99,14 @@
 >Tech Used
 >```
 >Python, PyTorch, CNN
+>```
+>Duration
+>```
+>2021/09 - 2021/12
+>```
+>Project URL
+>```
+>https://github.com/jekthewarrior/team-tums
 >```
 
 ### Websites
