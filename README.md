@@ -1,5 +1,13 @@
 # resume-snippets
 
+## ToC
+
+- [Work](#work-experience)
+- [Education](#education)
+- [Projects](#projects)
+- [Websites](#websites)
+- [Honors](#honors)
+
 ## Quick Copies
 
 ### Work Experience
@@ -58,7 +66,7 @@
 >2025
 >```
 
-### Project
+### Projects
 
 #### ACM Winter Proj 2022
 
@@ -126,4 +134,28 @@
 >GitHub
 >```
 >https://github.com/dowhep
+>```
+
+### Honors
+
+#### Provost's Honors
+
+>Title
+>```
+>Provost's Honors
+>```
+>Description
+>```
+>Awarded to student with high academic achievements: enrolling in a minimum of 12 graded units per quarter and earning a minimum 3.5 UCSD GPA.
+>```
+
+#### Triton Coastal Scholarship
+
+>Title
+>```
+>Triton Coastal Scholarship
+>```
+>Description
+>```
+>Merit scholarship to students with outstanding academic achievement
 >```
