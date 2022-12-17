@@ -176,6 +176,6 @@
 >Description
 >```
 >- Manage a team of 4 backend engineers using agile project management system to maintain the organization website used by 3000+ users
->- Created 2 real-time graphs using metabase and SQL query calls to track the average attendance of events for each week in a quarter
+>- Created 2 real-time graphs using metabase and SQL query calls to track the changes over the average attendance of events per week
 >- Implemented 10 feature functions, 3 APIs, and 2 testing functions under Typescript to allow the users to submit their resumes to the organization website and the recruiters to fetch their resumes.
 >```
