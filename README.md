@@ -7,6 +7,7 @@
 - [Projects](#projects)
 - [Websites](#websites)
 - [Honors](#honors)
+- [Organizations](#organizations)
 
 ## Quick Copies
 
@@ -158,4 +159,23 @@
 >Description
 >```
 >Merit scholarship to students with outstanding academic achievement
+>```
+
+### Organizations
+
+#### ACM at UCSD
+
+>Name
+>```
+>ACM at UCSD
+>```
+>Position
+>```
+>Backend Engineer
+>```
+>Description
+>```
+>- Manage a team of 4 backend engineers using agile project management system to maintain the organization website used by 3000+ users
+>- Created 2 realtime graphs using metabase and SQL query calls to track the average attendance of events for each weeks in a quarter
+>- Implemented 10 feature functions, 3 APIs, and 2 testing functions under Typescript to allow the users to submit their resumes to the organization website and the recruiters to fetch their resumes.
 >```
